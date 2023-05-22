@@ -1,0 +1,115 @@
+
+.col-12 img {
+  object-fit: cover;
+  height: 400px;
+  width: 100%;
+  text-decoration: none;
+  margin-bottom: 8px;
+}
+
+.col-6 img {
+  object-fit: cover;
+  height: 200px;
+  width: 100%;
+  text-decoration: none;
+  margin-bottom: 8px;
+}
+
+
+
+ul li, .icon {
+  color: black !important
+}
+
+p {
+  font-family: "Source Sans Pro" !important
+}
+
+header p {
+  font-size: .9em;
+  line-height: 1.5;
+}
+
+header ul li a {
+  font-size: .9em;
+  text-decoration: none;
+  color: black;
+}
+
+header ul li a:hover {
+  color: black !important;
+  font-weight: 700;
+}
+
+header ul li {
+  list-style-type: none;
+}
+
+.tall-work-item img {
+  object-fit: cover;
+  height: 400px !important;
+  width: 100%;
+  margin-top: 10px
+}
+
+.work-item a {
+  border: none;
+  margin-bottom: 10px !important;
+}
+
+.work-item p {
+  font-size: .9rem
+}
+
+.work-item p a {
+  border-bottom: solid 2px #49bf9d !important;
+}
+
+.link {
+  border-bottom: solid 2px #49bf9d !important;
+}
+
+#three .col-4 {
+    margin-bottom: 0px;
+}
+
+#five .work-item, #five .tall-work-item img {
+  margin-bottom: 0px !important;
+  margin-top: 0px !important;
+}
+
+td.date {
+  color: grey;
+}
+
+td.work {
+  font-weight: 300;
+}
+
+td.work a{
+  font-weight: 700;
+}
+
+div.year {
+  width: 100%;
+}
+
+div.year h3 {
+  font-weight: lighter;
+  width: 100%;
+  margin-bottom: 0 !important;
+}
+
+div.year hr {
+  margin-top: 0 !important;
+  border-bottom: 5px solid lightgray;
+  width: 50px;
+}
+
+.col-4 img {
+  object-fit: cover;
+  height: 200px;
+  width: 100%;
+  text-decoration: none;
+  margin-bottom: 8px;
+}
